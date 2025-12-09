@@ -1,0 +1,52 @@
+.bg-breadcrumb {
+  background: url(../images/bg/6.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.bg-breadcrumb2 {
+  background: url(../images/bg/8.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+/*messenger float btn*/
+.float {
+  position: fixed;
+  width: 48px;
+  height: 48px;
+  bottom: 20px;
+  right: 80px;
+  background-color: #168aff;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 25px;
+  z-index: 100;
+}
+
+.my-float {
+  margin-top: 9px;
+  margin-left: 9px;
+}
+
+.back-to-top {
+  bottom: 80px !important;
+  right: 20px;
+  border-radius: 9999px;
+  width: 50px;
+  height: 50px;
+}
+
+.aspect-video {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.swiper-slider-hero {
+  height: 70dvh;
+}
+
+.tall{
+  aspect-ratio: 9/12;
+  object-position: center;
+  object-fit: cover;
+}
